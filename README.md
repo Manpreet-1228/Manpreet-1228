@@ -1,5 +1,1 @@
-- 👋 Hi, I’m Manpreet Kaur
-- 👀 I’m interested in developing web & android applications and machine & deep learning models.
-- 🌱 I’m currently learning Deep Learning.
-- 💞️ I’m looking to collaborate on these above mentioned fields.
-- 📫 How to reach me ...Reach me at kaurmanpreet638@yahoo.com
+
